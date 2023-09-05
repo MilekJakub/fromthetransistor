@@ -1,3 +1,11 @@
+## Geohot's CS outline
+
+Course outline from [this](https://github.com/geohot/fromthetransistor) repository.
+
+[George Hotz Twitter](https://twitter.com/realGeorgeHotz)
+
+[George Hotz Youtube](https://www.youtube.com/@geohotarchive)
+
 ## From the Transistor to the Web Browser
 
 Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
