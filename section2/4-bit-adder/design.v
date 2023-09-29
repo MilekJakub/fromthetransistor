@@ -1,5 +1,3 @@
-`timescale 1ns/100ps
-
 module four_bit_adder(
   output overflow,
   output [4:0] result,

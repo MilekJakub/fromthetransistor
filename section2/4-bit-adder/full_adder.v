@@ -1,5 +1,3 @@
-`timescale 1ns/100ps
-
 module full_adder(
   output s,
   output c_out,

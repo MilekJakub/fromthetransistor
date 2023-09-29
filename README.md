@@ -6,6 +6,8 @@ Course outline from [this](https://github.com/geohot/fromthetransistor) reposito
 
 [George Hotz Youtube](https://www.youtube.com/@geohotarchive)
 
+Of course, this is not a course or syllabus that should be followed diligently, it is about gaining fundamental knowledge that will make us better engineers.
+
 ## From the Transistor to the Web Browser
 
 Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
