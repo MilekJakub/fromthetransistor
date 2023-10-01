@@ -1,0 +1,19 @@
+# Load canceled
+# Compile of not.v was successful.
+vsim -gui work.NOT_GATE
+# vsim -gui work.NOT_GATE 
+# Start time: 17:17:31 on Sep 29,2023
+# Loading work.NOT_GATE
+run
+run
+add wave -position insertpoint sim:/NOT_GATE/#NAND#5/*
+# ** UI-Msg: (vish-4014) No objects found matching '/NOT_GATE/#NAND#5/*'.
+add wave -position end  sim:/NOT_GATE/in
+add wave -position end  sim:/NOT_GATE/out
+run
+force -freeze sim:/NOT_GATE/in 1 0
+run
+force -freeze sim:/NOT_GATE/in St0 0
+run
+# End time: 17:21:54 on Sep 29,2023, Elapsed time: 0:04:23
+# Errors: 0, Warnings: 3

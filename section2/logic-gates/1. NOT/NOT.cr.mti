@@ -1,0 +1,8 @@
+C:/Users/Jakub.Milek/Desktop/fromthetransistor/section2/logic-gates/NOT/not.v {1 {vlog -work work -stats=none C:/Users/Jakub.Milek/Desktop/fromthetransistor/section2/logic-gates/NOT/not.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NOT_GATE
+
+Top level modules:
+	NOT_GATE
+
+} {} {}}
