@@ -1,4 +1,7 @@
 work/
 *.wlf
 *.bak
-
+*.cr.mti
+*.mpf
+transcript
+vsim.wlf
