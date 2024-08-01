@@ -1,12 +1,12 @@
-## Geohot's CS outline
+## From The Transistor
 
-Course outline from [this](https://github.com/geohot/fromthetransistor) repository.
+[Course outline](https://github.com/geohot/fromthetransistor)
 
 [George Hotz Twitter](https://twitter.com/realGeorgeHotz)
 
 [George Hotz Youtube](https://www.youtube.com/@geohotarchive)
 
-Of course, this is not a course or syllabus that should be followed diligently, it is about gaining fundamental knowledge that will make us better engineers.
+This is not a course or syllabus that should be followed diligently, it is about gaining fundamental knowledge that will make you a better engineer.
 
 ## From the Transistor to the Web Browser
 
