@@ -1,18 +1,18 @@
 ## Section 1: Intro: Cheating our way past the transistor
 
-I recommend to start with "Computer Science Crash Course" playlist.
+I recommend starting with the [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) playlist.
 
-Then you can start to read nandland blog and watch the rest of videos.
+Take your time, you can watch one video a day.
 
-The most important thing is to understand how you can build logic gates from transistors.
-
-Of course, this is only my opinion, it is probably not the best path to follow, but it is the path I followed.
+Then, you can start reading [the book](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686) and follow the course [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer).
 
 ## Books:
 
 [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686)
 
-If reading technical books doesn't make you want to gouge your eyes out, I really recommend it. This is really great book!
+## Courses:
+
+[From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)
 
 ## Blogs:
 
@@ -37,4 +37,5 @@ https://www.youtube.com/@BenEater
 ## Youtube Playlists
 
 [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
 
