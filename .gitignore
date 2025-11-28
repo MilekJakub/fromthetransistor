@@ -5,3 +5,4 @@ work/
 *.mpf
 transcript
 vsim.wlf
+.DS_Store
