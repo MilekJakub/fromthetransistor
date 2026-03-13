@@ -1,0 +1,92 @@
+IEEE 754
+- sign bit
+- 8 bit exponent
+- 23 bit mantissa
+
+Convert 19.59375 into IEEE 754 standard 32 bit floating point binary
+
+1. Determine the sign bit
+
+0 - Positive number
+1 - Negative number
+
+2. Convert to pure binary
+
+19 / 2
+9 -> 1
+
+9 / 2
+4 -> 1
+
+4 / 2
+2 -> 0
+
+2 / 2
+1 -> 0
+
+1 -> 1
+
+10011
+
+0.59375 * 2
+1.1875 -> 1
+
+0.1875 * 2
+0.3750 -> 0
+
+0.3750 * 2
+0.7500 -> 0
+
+0.7500 * 2
+1.5000 -> 1
+
+0.5000 * 2
+1.0000 -> 1
+
+10011
+
+19.59375 = 10011.10011
+
+3. Normalise to determine the mantissa and the unbiased exponent (place the binary point after leftmost 1)
+
+1.001110011 * 2 ^ 4
+1.001110011
+
+4. Determine the biased exponent (add 127 then convert to an unsigned binary integer)
+4 + 127 = 131
+
+131 / 2
+65 -> 1
+
+65 / 2
+32 -> 1
+
+32 / 2
+16 -> 0
+
+16 / 2
+8 -> 0
+
+8 / 2
+4 -> 0
+
+4 / 2
+2 -> 0
+
+2 / 2
+1 -> 0
+
+1 -> 1
+
+131 = 10000011
+
+5. Remove the leading 1 from the mantissa
+1.001110011 = 001110011
+
+6.
+
+sign bit + exponent + mantissa
+0 10000011 00111001100000000000000
+
+IEE 754 number:
+01000001100111001100000000000000

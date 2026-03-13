@@ -1,0 +1,15 @@
+video: THE ART OF MANAGING COMPLEXITY
+- abstraction
+- discipline
+- hierarchy
+- modularity
+- regularity
+- digital abstraction (digital vs. analog)
+
+video: NUMBER SYSTEMS
+- DEC, BIN, HEX
+- Add & Subtract
+- Unsigned vs. Signed vs. Two's Complement
+- Bytes, Words, most significant & least significant, GB vs. Gb
+
+video: LOGIC GATES

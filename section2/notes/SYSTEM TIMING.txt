@@ -1,0 +1,59 @@
+SYSTEM TIMING
+aperture time (photo)
+metastability (input changes too close to the sampling edge = metastable analog state that takes an unbounded time to resolve)
+dynamic discipline (input must be stable around rising edge)
+
+[flip-flop] -> [combinational logic] -> [flip-flop]
+
+sequential:
+- t_ccq   = contamination delay
+- t_pcq   = propagation delay
+- t_setup = setup time
+- t_hold  = hold time
+- T_c     = clock period / cycle time
+- f_c     = clock frequency
+
+combinational:
+- t_pd = propagation delay
+- t_cd = contamination delay
+
+Setup Time Constraint
+Limits the maximum delay through combinational logic.
+Setup violations happen when the path is too slow for the clock period.
+t_pd <= T_c - (t_pcq + t_setup)
+
+Hold Time Constraint
+Limits the minimum delay through combinational logic.
+Hold violations happen when the path is too fast (data races forward and changes too soon).
+t_cd >= t_hold - t_ccq
+
+Sequential circuits have setup and hold time constraints that dictate the maximum and minimum delays of the combinational logic between flip-flops.
+Modern flip-flops are usually designed so that the minimum delay through the combinational logic can be 0 - that is, flip-flops can be placed back-to-back.
+The maximum delay constraint limits the number of consecutive gates on the critical path of a high-speed circuit because a high clock frequency means a short clock period.
+
+CLOCK SKEW
+Variation in clock edges is called clock skew.
+If some clocks are gated and others are not, there will be substantial skew between the gated and ungated clocks.
+
+Setup Time Constraint
+t_pd <= T_c - (t_pcq + t_setup + t_skew)
+
+Hold Time Constraint
+t_cd >= t_hold + t_skew - t_ccq
+
+The clock skew effectively increases both the setup time and the hold time.
+It adds to the sequencing overhead, reducing the time available for useful work in the combinational logic.
+It also increases the required minimum delay through the combinational logic.
+
+METASTABILITY
+When a flip-flop samples an input that is changing during its aperture, the output Q may momentarily take on a voltage between 0 and VDD that is in the forbidden zone.
+This is called a metastable state.
+
+Eventually, the flip-flop will resolve the output to a stable state of either 0 or 1.
+However, the resolution time required to reach the stable state is unbounded.
+
+The amount of time required to resolve is unbounded because for any finite time, t, the probability that the flip-flop is still metastable is nonzero.
+However, this probability drops off exponentially as t increases.
+Therefore, if we wait long enough, much longer than t_pcq, we can expect with exceedingly high probability that the flip-flop will reach a valid logic level.
+
+

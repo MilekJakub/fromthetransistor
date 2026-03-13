@@ -1,0 +1,89 @@
+legend:
+# = title
+## = subtitle
+--- = transition
+(action) = notes for editing
+
+
+# THE ART OF MANAGING COMPLEXITY
+
+## Opening
+
+Modern software systems are incredibly complex. (text)
+
+Operating systems. (image)
+Compilers. (image)
+Game engines. (image)
+Entire virtual worlds. (image)
+
+---
+
+Yet many of these systems started with just one developer. (one person image)
+
+How is that possible? (text)
+
+The answer is not genius or superhuman. (brain & superman image)
+
+It's structure. (text) (boom.mp3) (pause)
+
+(the music starts and slowly increases in volume)
+
+---
+
+Complex systems are built using a small set of powerful ideas.
+
+These ideas allow us to break something overwhelming into pieces we can actually understand.
+
+(longer pause to signal the end of introduction)
+
+---
+
+## Abstraction
+
+(spinning planet on the screen)
+
+There are millions of building around the world.
+How can we find the one we are interested in?
+It is simple - you just need to zoom in the right place.
+
+Continent (zoom into continent) (image)
+Country (zoom into country) (image)
+State (zoom into state) (image)
+County (zoom into county) (image)
+City (zoom into city) (image)
+Street (zoom into street) (image)
+Building (zoom into building) (image)
+
+We can clearly see levels of abstraction.
+Each one operates on smaller unit.
+
+The same applies rules applies everywhere else.
+
+human -> circulatory system -> heart -> vein -> blood cells
+minecraft -> worlds -> chunks -> structures -> blocks
+car -> engine -> engine block -> pistons -> piston head
+PC -> CPU -> ALU -> Full Adder -> logic gates
+
+You basically zooming into the part that is interesting for you.
+
+Instead of calling it microscope or zoom we call it abstraction.
+
+At each level, you only care about what matters at this level.
+A mechanic fixing a piston doesn't need to think about the whole car.
+That's the point - abstraction lets you hide the details that don't matter right now.
+
+---
+
+## Discipline
+
+Imagine world without rules.
+
+Total anarchy.
+
+What about a website that does not have any performance rules?
+
+YouTube video that can take from 1 second to 5 minutes to start playing.
+The biggest intersection in your area where everyone has the right of way.
+A game in which we used warm colors next to cold colors, pixel art next to hand drawn art, low poly 3D models next to photorealistic models.
+
+
