@@ -1,3 +1,26 @@
+1. idea sentence
+People can build incredibly complex systems because they organize complexity using abstractions.
+
+2. before video
+"Large codebases, CPUs, compilers are impossibly complicated."
+"Only genius engineers understand them."
+"I could never build something like that."
+
+3. after video
+"Complex systems are built by layering simple ideas."
+"I can start building complex things if I control complexity."
+"I have tools that will help me when I'm lost."
+
+4. core ideas
+- complexity is unavoidable
+- humans cannot understand huge systems directly
+- 5 tools for managing complexity
+
+5. opening problem
+Nowadays, everything is impossibly complicated and nothing is as it seems.
+
+=== === === ===
+
 legend:
 # = title
 ## = subtitle
@@ -9,32 +32,34 @@ legend:
 
 ## Opening
 
-Modern software systems are incredibly complex. (text)
+Nowadays, everything is impossibly complicated and nothing is as it seems.
 
-Operating systems. (image)
-Compilers. (image)
-Game engines. (image)
-Entire virtual worlds. (image)
+Phones (image)
+Cars (image)
+Computers (image)
+Web Browsers (image)
+Operating systems (image)
+Games (image)
 
 ---
 
-Yet many of these systems started with just one developer. (one person image)
+Yet all of these were produced by human. (one person image)
 
 How is that possible? (text)
 
-The answer is not genius or superhuman. (brain & superman image)
+The answer is not geniuses, superhumans or stolen alien technology. (einstein, superman, alien image)
 
-It's structure. (text) (boom.mp3) (pause)
+It's all about structure. (text) (boom.mp3) (pause)
 
-(the music starts and slowly increases in volume)
+(longer pause to signal the end of introduction)
 
 ---
+
+(the music starts and slowly increases in volume)
 
 Complex systems are built using a small set of powerful ideas.
 
 These ideas allow us to break something overwhelming into pieces we can actually understand.
-
-(longer pause to signal the end of introduction)
 
 ---
 
@@ -54,10 +79,10 @@ City (zoom into city) (image)
 Street (zoom into street) (image)
 Building (zoom into building) (image)
 
-We can clearly see levels of abstraction.
-Each one operates on smaller unit.
+We can clearly see different levels at which we operate.
+The first level operates on continent where the last one operates on buildings.
 
-The same applies rules applies everywhere else.
+The same rules applies everywhere.
 
 human -> circulatory system -> heart -> vein -> blood cells
 minecraft -> worlds -> chunks -> structures -> blocks
@@ -66,24 +91,23 @@ PC -> CPU -> ALU -> Full Adder -> logic gates
 
 You basically zooming into the part that is interesting for you.
 
-Instead of calling it microscope or zoom we call it abstraction.
-
-At each level, you only care about what matters at this level.
-A mechanic fixing a piston doesn't need to think about the whole car.
+At each level, you only care about what matters.
+A mechanic fixing a piston doesn't need to think about the tire pressure.
 That's the point - abstraction lets you hide the details that don't matter right now.
+
+---
+
+Try to zoom into some things around you.
+If you are unsure, just ask AI to explain different levels of abstraction for this thing.
+It can be anything: monitor, phone, paper, table you name it.
 
 ---
 
 ## Discipline
 
-Imagine world without rules.
+Imagine world without rules. (sound: screams, gun shots, explosions) (animated fire on the screen)
+What about a website that does not have any performance rules? (old PC sound) (internet explorer with loading cursor)
+The biggest intersection in your city where everyone has the right of way. (car crash sound)
 
-Total anarchy.
-
-What about a website that does not have any performance rules?
-
-YouTube video that can take from 1 second to 5 minutes to start playing.
-The biggest intersection in your area where everyone has the right of way.
-A game in which we used warm colors next to cold colors, pixel art next to hand drawn art, low poly 3D models next to photorealistic models.
-
-
+How to avoid that?
+The answer is simple: follow the rules.
