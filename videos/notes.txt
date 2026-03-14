@@ -51,34 +51,32 @@ How to avoid death By PowerPoint
 https://www.youtube.com/watch?v=Unzc731iCUY
 How to Speak
 
-How to start a talk
+- How to start a talk -
 
 1. Never start with a joke, it always falls flat.
 2. Start with an empowerment statement, i.e. what will the audience achieve after the talk.
 3. Humans have only one language processor, so make sure they focus on what you're saying.
 
-------------------------------------------
 
-4 Sample Heuristics
+
+- 4 Sample Heuristics -
 
 1. Cycle on the topic. Repeat what are talking about to reinforce it
 2. Build a fence around your ideas, so audiences don't confuse them with the ideas from others. Tell them how your idea is different from others.
 3. Use verbal punctuation to help audiences re-focus. State what you have covered so far and what is there to come.
 4. Ask questions. Engage the audience with moderately difficult questions every now and then. But not very difficult ones.
 
-------------------------------------------
 
-The Tools
+
+- The Tools -
 
 Time & place
-
 1. Choose an appropriate time for talks. 11 am is a good time for the 1st lecture of the day.
 2. The place should be well lit.
 3. Know the place before hand, it should be cased so that you can address challenges if any. 
 4. Make sure it's reasonably populated.
 
 Boards. Props, & Slides
-
 1. Chalks and boards are good for informing and teaching.
 2. Boards are well paced medium, people can absorb content while you write or draw graphics.
 6. Using Boards and props helps in empathetic mirroring i.e. audiences think they are doing the writing and drawing
@@ -90,9 +88,9 @@ Boards. Props, & Slides
 5. Props are useful to help audiences visualize things.
 9. Practice your talk with people who don't know your work so that they don't hallucinate whats not in the presentation.
 
-------------------------------------------
 
-Informing, Inspire
+
+- Informing, Inspire -
 
 1. Show your passion towards the subject
 2. Promise a solution to a problem
@@ -104,9 +102,9 @@ Informing, Inspire
 - Providing ways to put together stories
 - Providing ways to evaluate reliability of the stories
 
-------------------------------------------
 
-Persuade
+
+- Persuade -
 
 1. Job Talks:
 Vision - Tell them about a problem they'd be interested in and provide your approach to the solution.
@@ -116,9 +114,9 @@ Achievement - Provide the steps you will take to solve the problem
 Why? - Because you want your work to be recognized.
 How? - Brand your work, have a slogan, have a salient idea and have a story to tell.
 
-------------------------------------------
 
-How to End a Talk
+
+- How to End a Talk -
 
 1. The last slide - It should enumerate what the audience have learnt or achieved after this talk, give them the time to read.
 2. Final words:
@@ -126,3 +124,66 @@ How to End a Talk
 - End with a call to action.
 
 - Alright, you can tell a joke now, people will think they've had fun all the while.
+
+=== === === === === === === === === === ===
+
+How To Become A Master Storyteller
+https://www.youtube.com/watch?v=t5Z-Q1bg1tU
+
+1. "But then." Dance between context and conflict. 
+2. Zig zag sentences. Create a rhythmic flow of varying sentence lengths.
+3. Talk like you’re talking to a friend and not a camera. 
+4. "The last dab." Start with the ending.
+5. Unique perspective. 
+6. Include a visual hook.
+
+=== === === === === === === === === === ===
+
+How to edit SO good your viewers get addicted to your videos
+https://www.youtube.com/watch?v=sLgHqZSe2o0
+
+- The Hard Truth -
+What experience your viewers want?
+Sam Sulek style = 90 seconds per clip on average -> hanging out with a friend
+Mr Beast style = 2 secounds per clip on average -> entertainment
+Cutting out pauses so you speak constantly is easily the most important edit for entertainment, but it takes away the authenticity.
+Effective editing takes all such choices into a count.
+Edit your videos with a valid mindset: is this change suits the audience the best?
+
+
+
+- Healthy Variety of Visuals -
+When you see a change in your vision, like something moving abruptly it gets your attention.
+The same is true when watching a video.
+Changing visuals every few seconds keep attention much better.
+
+Different types of footage:
+- A-Roll (talking to camera)
+- B-Roll (footage separate from the audio for explaining things)
+- Support (stock footage & motion graphics)
+
+There is a drawback to changing what's on screen too much.
+All of visual variety can quickly become visual much if you're doing it wrong.
+If you cut between different clips literally as much as possible you risk making things confusing which hurts engagement.
+To avoid that don't minimize shot duration just for the sake of minimizing shot duration.
+It's okay to leave the same clip on screen for 10 seconds if it's interesting for 10 seconds.
+
+Often times adding some engagement spice to your video doesn't even require cuts to another clip.
+Instead use some tricks to make things way more immersive:
+
+1. MOVEMENT
+Give some movement to any boring still clips you have.
+Make either the scale or position slowly change.
+Event better make things fancy, by changing their perspective.
+You can also do more abrupt scale changes to draw attention to certain things.
+When you say something important in an A-Roll segment you can zoom in close to face to subtly communicate to the viewer that they should listen up.
+
+2. VISUALS
+Throw a bunch of visuals on top of your footage
+Many people making mistake of adding captions just to jack up the visual variety.
+Don't forget the drawbacks.
+Using captions to fill in dead space can quickly become obnoxious and ruin a great opportunity to use a more engaging visual.
+Use captions if you want the viewer to understand and pay closer attention to certain words.
+If there is really nothing else to put on the screen captions are often still better than nothing.
+Also small amount of words on the screen at the same time because makes them easier to read.
+
