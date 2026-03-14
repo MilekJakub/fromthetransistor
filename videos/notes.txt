@@ -187,3 +187,57 @@ Use captions if you want the viewer to understand and pay closer attention to ce
 If there is really nothing else to put on the screen captions are often still better than nothing.
 Also small amount of words on the screen at the same time because makes them easier to read.
 
+- captions
+- highlight (most important text or area)
+- darken / blur the area that surrounds the focus point of the image
+- shift hue (green positive, red negative) 
+- circles, arrows, underlines
+- make the subject glow
+- make the video look good: color grading, viniette, subtle particles
+
+3. VISUAL CONTINUITY
+If you manage to create a seamless feed of visuals then there is no rough edges, no areas for distraction, there is no point where the viewer loses immersion
+The goal is to make every moment blend into the next seamlessly.
+The editing should be invisible.
+Every time the graphic comes on screen it can't just magically there.
+It needs to somehow move into the frame.
+You don't have to animate things, you can also let something magically appear on screen but then explain how it got there using a sound effect.
+
+4. IMERSIVE AUDIO
+The first step of sound design is to gather a bunch of sounds to work with.
+- freesound.org (free)
+- epidemicsound (paid)
+
+Add sound effects wherever it makes sense.
+
+Now we add deeper layer:
+1. Risers
+They build tension and anticipation because they communicate to the audience that something important is about to happen.
+Use them only if something important is actually going to happen or else they will lose their reputation and won't be effective.
+
+2. Hits
+These release tension and emphasize moments making them feels important.
+
+3. Drones
+These create a feeling of mystery or intrigue.
+They reserved more for darker moods creating a lot of underlying suspense.
+
+The reason these sound effects are so powerful is because they manipulate the viewer's emotions.
+The more emotionally invested the viewer is the more engaged they are.
+
+Next level of immersion is provided by the music choice.
+
+Anticipation music makes the viewer constantly believe you are about to say something super important.
+During a segment where you're giving groundbreaking advice use a song that gives an innovative feeling, because it creates a ton of excitement over what you're saying.
+This is super straightforward to pull off.
+Separate your video based on subject changes, and then decide the mood the viewer should have for each subject.
+You should spend a lot of time finding the right music because it is really important that it fits.
+
+There is even more you can do with your music choice to immerse the viewer.
+Pause the music abruptly and the sudden change will jolt the viewer getting their attention.
+The lack of music brings the attention to other parts of the video, so for special moments try pausing the music to elevate that moment.
+Let the music slowly fade out.
+Once the viewer notices that the music is going away they'll understand that the segment they're watching is coming to a close.
+
+
+
