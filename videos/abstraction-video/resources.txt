@@ -1,0 +1,6 @@
+cpu icon - https://en.wikipedia.org/wiki/CPU-Z
+ISA & microarchitecture - https://sirinsoftware.com/blog/inside-risc-v-microarchitecture
+logic & digital circuits - https://medium.com/@thakeenathees/understanding-cpu-1-adder-circuit-9b32e890a507
+analog vs digital circuit - https://www.allaboutcircuits.com/textbook/semiconductors/chpt-9/computational-circuits/
+transistors - https://www.rcpano.net/what-is-transistor-pnp-npn/
+electrons - https://www.savemyexams.com/a-level/physics/ocr/17/revision-notes/4-electrons-waves-and-photons/4-1-charge-and-current/4-1-2-electric-current-and-electron-flow/
