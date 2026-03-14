@@ -1,0 +1,47 @@
+Programmers who write code every day — but have never looked underneath it.
+
+They know what a function call does.
+They don't know what the CPU does to execute it.
+They've heard of registers, opcodes, and syscalls — but those words feel like black magic.
+Your job is to make them feel like an insider by the end of each video.
+
+- Junior devs
+- Mid-level engineers
+- Senior devs
+- Knows at least one language
+- Skips syntax explainers
+- Curious, not academic
+
+Before: "I just use the abstraction."
+After: "Now I know what's actually happening."
+
+Do
+- Connect every concept to code they already write
+- Use analogies before definitions
+- End each video teasing the next layer
+- Move fast — respect their time
+- Show the messy reality, not just clean theory
+- Celebrate the "aha" moment explicitly
+
+Don't
+- Explain what a variable or loop is
+- Use academic language without grounding it
+- Wrap up neatly — leave a hook open
+- Pad with recaps they don't need
+- Assume hardware knowledge (they're software people)
+- Make seniors feel talked down to
+
+1. Cut the pause, keep the breath
+Edit out dead air but don't go robotic. The energy is a smart friend explaining something cool — not a lecture, not a podcast ramble.
+
+2. Hook in the first 30 seconds
+Start with the most surprising or counterintuitive thing in the video. "Your for-loop isn't a loop to your CPU" beats "Today we're going to talk about instruction pipelining."
+
+3. One concept per video, fully resolved
+Don't leave them confused. Leave them curious. There's a difference — confusion is unresolved, curiosity is satisfied but hungry for more.
+
+4. The cliffhanger is the series engine
+Every video ends by making the next one feel necessary. "We can now execute instructions — but how does the CPU know which instruction to run next?" That question is the next video.
+
+Think 3Blue1Brown's clarity meets Fireship's pace. Visually driven, fast-cutting, but never sacrifices the "why" for the sake of speed.
+The viewer should feel like they're being let in on a secret — not lectured at.
