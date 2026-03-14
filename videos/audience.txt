@@ -16,7 +16,6 @@ Before: "I just use the abstraction."
 After: "Now I know what's actually happening."
 
 Do
-- Connect every concept to code they already write
 - Use analogies before definitions
 - End each video teasing the next layer
 - Move fast — respect their time
@@ -24,11 +23,10 @@ Do
 - Celebrate the "aha" moment explicitly
 
 Don't
-- Explain what a variable or loop is
 - Use academic language without grounding it
 - Wrap up neatly — leave a hook open
 - Pad with recaps they don't need
-- Assume hardware knowledge (they're software people)
+- Assume hardware knowledge
 - Make seniors feel talked down to
 
 1. Cut the pause, keep the breath
@@ -44,4 +42,4 @@ Don't leave them confused. Leave them curious. There's a difference — confusio
 Every video ends by making the next one feel necessary. "We can now execute instructions — but how does the CPU know which instruction to run next?" That question is the next video.
 
 Think 3Blue1Brown's clarity meets Fireship's pace. Visually driven, fast-cutting, but never sacrifices the "why" for the sake of speed.
-The viewer should feel like they're being let in on a secret — not lectured at.
+The viewer should feel like they're being let in on a secret - not lectured at.
