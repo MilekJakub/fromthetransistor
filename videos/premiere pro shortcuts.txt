@@ -1,0 +1,10 @@
+alt + backspace -> remove
+control + drag -> drag without overwriting
+alt + ctrl -> rearrange clips
+ctrl + trim -> trim + rearange
+
+slowed-down clip -> drama
+speeded-up clip -> excitement
+
+changing pace is an extremely common way to highlight interesting movement in a video
+
